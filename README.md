@@ -1,5 +1,18 @@
 # Simple Calculator
 
+## Problem
+Create a calculator that accepts two numbers and an operator, then performs the calculation.
+* Support: +, -, *, /
+
+## Constraints
+* Use input()
+* Convert numbers to appropriate type
+* Use if / elif / else
+* Do not use eval()
+* Do not import any library
+* Handle division by zero
+
+
 A beginner-friendly command-line calculator built with Python.
 
 The program accepts two numbers and an arithmetic operator, performs the selected calculation, handles invalid input, prevents division by zero, and allows the user to continue or exit.
